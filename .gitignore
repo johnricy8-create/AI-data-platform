@@ -1,0 +1,27 @@
+# secrets
+.env
+backend/.env
+*.key
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+backend/data/
+
+# node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# os / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# demo screenshots
+demo/preview-*.png
+demo/shot-*.png

@@ -1,0 +1,9 @@
+{
+  "name": "ai-commerce-hub-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI 电商数据中台高保真交互 Demo",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
